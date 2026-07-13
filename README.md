@@ -1,7 +1,5 @@
 # 🌟 Wijaya Kusuma - Component Library
 
-<div align="center">
-  <img src="./public/favicon.png" alt="Wijaya Kusuma Logo" width="120" height="120" style="border-radius: 24px; margin-bottom: 16px;" />
   <p><strong>Beautiful, accessible, and production-ready React components built with Tailwind CSS and Radix UI primitives.</strong></p>
 
   [![React Version](https://img.shields.io/badge/react-v18.3.1-blue.svg?style=flat-square&logo=react)](https://react.dev/)
