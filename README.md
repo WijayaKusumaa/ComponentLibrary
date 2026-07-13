@@ -9,6 +9,7 @@
 </div>
 
 ---
+![component library](componentlibrary.png)
 
 ## 🎨 Overview
 
@@ -101,3 +102,11 @@ npx shadcn add [component-name]
 ## 📄 License
 
 Distributed under the **WJY License**. See the licensing documentation for more details.
+
+---
+
+<div align="center">
+
+Made with ❤️ by **Wijaya Kusuma**
+
+</div>
